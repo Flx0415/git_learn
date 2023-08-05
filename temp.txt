@@ -1,6 +1,6 @@
 Hello , Git1  update
 Hello , Git2  22222
-Hello , Git3
+Hello , Git3  checkout 
 Hello , Git4
 Hello , Git5
 Hello , Git6
